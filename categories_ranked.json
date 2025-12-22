@@ -1,0 +1,320 @@
+[
+  {
+    "workflow_num": 1,
+    "category": "Patient Access & Intake",
+    "workflow_name": "Referral Intake, Enrollment & Benefits Verification",
+    "operational_timing": "Day 0 (Acquisition)",
+    "improvement_rank": 1,
+    "hours": null,
+    "improvement_rank_5scale": 1,
+    "cost_rank": 10,
+    "improvement_rank_top10": 10
+  },
+  {
+    "workflow_num": 2,
+    "category": "Patient Access & Intake",
+    "workflow_name": "Prior Authorization (PA) Processing",
+    "operational_timing": "Pre-Clinical Clearance",
+    "improvement_rank": 5,
+    "hours": 1.0,
+    "improvement_rank_5scale": 5,
+    "cost_rank": 2,
+    "improvement_rank_top10": 1
+  },
+  {
+    "workflow_num": 3,
+    "category": "Patient Access & Intake",
+    "workflow_name": "Transfer Triage & Payer Lockout Management",
+    "operational_timing": "Pre-Clinical Decision",
+    "improvement_rank": 4,
+    "hours": 0.5,
+    "improvement_rank_5scale": 4,
+    "cost_rank": 7,
+    "improvement_rank_top10": 2
+  },
+  {
+    "workflow_num": 4,
+    "category": "Clinical Patient Management",
+    "workflow_name": "Nursing Coordination & Skilled Visit Scheduling",
+    "operational_timing": "Pre-Dispense (Care Coordination)",
+    "improvement_rank": 3,
+    "hours": 1.0,
+    "improvement_rank_5scale": 3,
+    "cost_rank": 3,
+    "improvement_rank_top10": 5
+  },
+  {
+    "workflow_num": 5,
+    "category": "Clinical Patient Management",
+    "workflow_name": "Patient Onboarding & Initial Clinical Assessment",
+    "operational_timing": "Pre-Dispense (One-time)",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 6,
+    "category": "Clinical Patient Management",
+    "workflow_name": "Refill Clinical Follow-Up",
+    "operational_timing": "Recurring Monthly Cycle",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 7,
+    "category": "Clinical Patient Management",
+    "workflow_name": "Ongoing Clinical Assessment ",
+    "operational_timing": "Recurring Monthly Cycle",
+    "improvement_rank": 4,
+    "hours": 0.5,
+    "improvement_rank_5scale": 4,
+    "cost_rank": 8,
+    "improvement_rank_top10": 2
+  },
+  {
+    "workflow_num": 8,
+    "category": "Clinical Patient Management",
+    "workflow_name": "Therapy Discontinuation & Discharge Planning",
+    "operational_timing": "End of Lifecycle",
+    "improvement_rank": 3,
+    "hours": 0.5,
+    "improvement_rank_5scale": 3,
+    "cost_rank": 9,
+    "improvement_rank_top10": 5
+  },
+  {
+    "workflow_num": 9,
+    "category": "Clinical Patient Management",
+    "workflow_name": "Special Programs & Ancillary Services",
+    "operational_timing": "As Needed",
+    "improvement_rank": 2,
+    "hours": 1.0,
+    "improvement_rank_5scale": 2,
+    "cost_rank": 4,
+    "improvement_rank_top10": 8
+  },
+  {
+    "workflow_num": 10,
+    "category": "Dispensing & Fulfillment",
+    "workflow_name": "Prescription Processing & Order Entry",
+    "operational_timing": "Intake Handoff (Queue)",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 11,
+    "category": "Dispensing & Fulfillment",
+    "workflow_name": "Dispensing, Compounding & Product Verification",
+    "operational_timing": "Production",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 12,
+    "category": "Inventory & Supply Chain Management ",
+    "workflow_name": "Inventory Management - Procurement",
+    "operational_timing": "Daily Replenishment Cycle",
+    "improvement_rank": 3,
+    "hours": 0.75,
+    "improvement_rank_5scale": 3,
+    "cost_rank": 6,
+    "improvement_rank_top10": 5
+  },
+  {
+    "workflow_num": 13,
+    "category": "Inventory & Supply Chain Management ",
+    "workflow_name": "Inventory Management -Returns & Reverse Distribution",
+    "operational_timing": "Periodic Asset Recovery",
+    "improvement_rank": 2,
+    "hours": 1.0,
+    "improvement_rank_5scale": 2,
+    "cost_rank": 5,
+    "improvement_rank_top10": 8
+  },
+  {
+    "workflow_num": 14,
+    "category": "Logistics & Delivery",
+    "workflow_name": "Shipment Coordination, Packing & Shipping",
+    "operational_timing": "Post-Dispense",
+    "improvement_rank": 1,
+    "hours": null,
+    "improvement_rank_5scale": 1,
+    "cost_rank": 10,
+    "improvement_rank_top10": 10
+  },
+  {
+    "workflow_num": 15,
+    "category": "Logistics & Delivery",
+    "workflow_name": "Patient Receipt & Delivery Confirmation",
+    "operational_timing": "Revenue Trigger",
+    "improvement_rank": 5,
+    "hours": 0.15,
+    "improvement_rank_5scale": 5,
+    "cost_rank": 10,
+    "improvement_rank_top10": 1
+  },
+  {
+    "workflow_num": 16,
+    "category": "Revenue Cycle Management",
+    "workflow_name": "Claims Submission: Pharmacy Benefit",
+    "operational_timing": "Real-Time Adjudication",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 17,
+    "category": "Revenue Cycle Management",
+    "workflow_name": "Claims Submission: Medical Benefit (Post-Delivery)",
+    "operational_timing": "Retrospective Billing",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 18,
+    "category": "Revenue Cycle Management",
+    "workflow_name": "Denials Management & Appeals ",
+    "operational_timing": "Revenue Recovery",
+    "improvement_rank": 5,
+    "hours": 1.5,
+    "improvement_rank_5scale": 5,
+    "cost_rank": 1,
+    "improvement_rank_top10": 1
+  },
+  {
+    "workflow_num": 19,
+    "category": "Revenue Cycle Management",
+    "workflow_name": "Payment Posting & Reconciliation",
+    "operational_timing": "Cash Realization",
+    "improvement_rank": 3,
+    "hours": null,
+    "improvement_rank_5scale": 3,
+    "cost_rank": 6,
+    "improvement_rank_top10": 5
+  },
+  {
+    "workflow_num": 20,
+    "category": "Revenue Cycle Management",
+    "workflow_name": "AR Collection & Follow-Up",
+    "operational_timing": "Aged Debt Management",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 21,
+    "category": "Regulatory & Licensing",
+    "workflow_name": "Regulatory Management & Non-Resident Pharmacy Licensing",
+    "operational_timing": "Annual / Biennial Renewal",
+    "improvement_rank": 3,
+    "hours": null,
+    "improvement_rank_5scale": 3,
+    "cost_rank": 6,
+    "improvement_rank_top10": 5
+  },
+  {
+    "workflow_num": 22,
+    "category": "Regulatory & Licensing",
+    "workflow_name": "Sterile Compounding Regulatory Compliance",
+    "operational_timing": "Daily/Monthly/Semi-Annual/Annual (USP <797>)",
+    "improvement_rank": 3,
+    "hours": null,
+    "improvement_rank_5scale": 3,
+    "cost_rank": 6,
+    "improvement_rank_top10": 5
+  },
+  {
+    "workflow_num": 23,
+    "category": "Human Resources",
+    "workflow_name": "Workforce Management, Staffing & Competency",
+    "operational_timing": "Continuous",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 24,
+    "category": "Contracting & Network Management",
+    "workflow_name": "Payer Contract Management",
+    "operational_timing": "Contract Cycle/ Quarterly Report",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 25,
+    "category": "Contracting & Network Management",
+    "workflow_name": "Manufacturer Contract Management",
+    "operational_timing": "Contract Cycle/ Quarterly Report",
+    "improvement_rank": 2,
+    "hours": null,
+    "improvement_rank_5scale": 2,
+    "cost_rank": 8,
+    "improvement_rank_top10": 8
+  },
+  {
+    "workflow_num": 26,
+    "category": "Procurement & Vendor Management",
+    "workflow_name": "Vendor & Manufacturer Contract Management",
+    "operational_timing": "As Needed / Contract Term",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 27,
+    "category": "Accreditation Compliance",
+    "workflow_name": "Accreditation Maintenance & Continuous Readiness",
+    "operational_timing": "Continuous / Quarterly",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  },
+  {
+    "workflow_num": 28,
+    "category": "Quality Management",
+    "workflow_name": "Clinical Oversight Committee (COC) Operations",
+    "operational_timing": "Continuous / Quarterly",
+    "improvement_rank": 4,
+    "hours": null,
+    "improvement_rank_5scale": 4,
+    "cost_rank": 3,
+    "improvement_rank_top10": 2
+  },
+  {
+    "workflow_num": 29,
+    "category": "Quality Management",
+    "workflow_name": "Quality Management Program (QMP) & Reporting",
+    "operational_timing": "Continuous / Quarterly",
+    "improvement_rank": 4,
+    "hours": null,
+    "improvement_rank_5scale": 4,
+    "cost_rank": 3,
+    "improvement_rank_top10": 2
+  },
+  {
+    "workflow_num": 30,
+    "category": "Quality Management",
+    "workflow_name": "Cold Chain Compliance & Stability Tracking",
+    "operational_timing": "Initial Validation / Semi-Annual Audit",
+    "improvement_rank": null,
+    "hours": null,
+    "improvement_rank_5scale": null,
+    "improvement_rank_top10": null
+  }
+]
